@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_view">16dp</dimen>
+    <dimen name="square_size">45dp</dimen>
+    <dimen name="text_size">35sp</dimen>
+    <dimen name="ennoble_space">5sp</dimen>
+    <dimen name="padding_law">10dp</dimen>
+    <dimen name="text_law_size">15sp</dimen>
+    <dimen name="border_size">2dp</dimen>
+    <dimen name="law_size">50dp</dimen>
+    <dimen name="rotate">180</dimen>
+    <dimen name="button_size">100dp</dimen>
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Chess</string>
+
+    <string name="computer_name">c_m</string>
+    <string name="PvE">PvE</string>
+    <string name="PvP_1_device">PvP</string>
+    <string name="How_To_Play">How To Play</string>
+
+    <string name="game_over">Game Over !!</string>
+
+    <string name="undo">Undo</string>
+    <string name="reset">Reset</string>
+    <string name="home">Home</string>
+    <string name="save">Save</string>
+
+    <string name="default_countdown">05:00</string>
+
+    <string name="queen">Queen</string>
+    <string name="bishop">Bishop</string>
+    <string name="rook">Rook</string>
+    <string name="knight">Knight</string>
+
+    <string name="Law_Of_King" translatable="false">
+        Vua chỉ có thể di chuyển một ô ở mọi hướng. Nếu vua bị ăn thì trò chơi kết thúc.
+    </string>
+
+    <string name="Law_Of_Queen" translatable="false">
+        Quân hậu có thể di chuyển dọc, ngang hoặc chéo - di chuyển xa đến đâu cũng được miễn là nó không đi xuyên qua các quân cờ khác.
+    </string>
+
+    <string name="Law_Of_Knight" translatable="false">
+        Quân mã di chuyển hai ô một hướng, rồi một ô quay ngoặt 90 độ, giống như hình chữ "L".
+        Quân mã là quân duy nhất có thể nhảy qua một quân khác.
+    </string>
+
+    <string name="Law_Of_Bishop" translatable="false">
+        Quân tượng chỉ có thể đi chéo.
+        Mỗi quân tượng bắt đầu ở một ô màu (sáng hay tối) và sẽ luôn luôn đứng ở ô màu đó.
+    </string>
+
+    <string name="Law_Of_Rook" translatable="false">
+        Quân xe chỉ di chuyển tiến lùi, và sang ngang được.
+    </string>
+
+    <string name="Law_Of_Pawn" translatable="false">
+        Quân tốt đi thẳng, nhưng bắt quân chéo.
+        Nó chỉ có thể tiến một bước trong một lượt, trừ lượt đầu tiên chúng có thể tiến hai bước.
+        Nó chỉ có thể bắt quân địch ở phía chéo trước nó.
+        Nếu có một quân cờ đứng trước mặt, quân tốt không thể nào đi tiếp hay ăn quân cờ đó.
+        Nếu quân tốt di chuyển đến hàng cuối cùng phía bên kia bàn cờ, nó sẽ được thay thế bằng một quân cờ khác (đây gọi là Phong cấp).
+    </string>
+
+    <string name="Law_Of_Castle" translatable="false">
+        Nếu vua và xe chưa đi lượt nào, không có bất kỳ quân cờ nào nằm giữa chúng và vua không bị chiếu thì chúng có thể nhập thành.
+        Nhập thành bao gồm: Di chuyển Vua hai ô về một phía của bàn cờ (chỉ được phép đi ngang) và quân Xe (trong góc, hướng Vua di chuyển) ra phía ngoài, đứng cạnh Vua nhưng ở phía ngược lại
+        Dù hướng nào đi nữa, Vua chỉ được phép đi 2 ô khi nhập thành.
+    </string>
+</resources>
